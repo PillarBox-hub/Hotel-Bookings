@@ -16,7 +16,7 @@ The dataset was made up of 36 columns.
 
 # Key Findings
 
-*** On holiday period having effect on bookings ***
+***On holiday period having effect on bookings***
 During Summer time
 
 Most visitors prefer stays of 2, 3, 1 or 4 nights.
